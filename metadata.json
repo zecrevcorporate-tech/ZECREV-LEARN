@@ -1,0 +1,7 @@
+{
+  "name": "AI English Tutor",
+  "description": "A step-by-step, video-based application to learn English by speaking with a live AI tutor. Select a lesson and start a conversation to practice your skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
